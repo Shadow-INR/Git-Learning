@@ -2,3 +2,6 @@ instruction for deploying this website to the server
 
 -----------------------
 zok zok zok
+
+-----------------
+installation
